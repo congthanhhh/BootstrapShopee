@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chi tiet sp</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <div class="container detail-page">
+    <div class="row detail-page-a">
+      <div class="col-md-5 detai-page-b">
+        <div class="detail-page-b-img">
+          <img class="detail-page-b-img-a" width="450px" src="{{products[index].Image}}" alt="">
+        </div>
+        <div class="row detail-page-b-text">
+          <div class="row col-md detail-page-b-text-01 nav-item-pipe">
+            <div class="">Chia sẻ:</div>
+            <div class="detail-page-b-text-a">
+              <i class="fa-brands fa-facebook-messenger" style="font-size:24px; color: #0384ff;"></i>
+            </div>
+            <div class="detail-page-b-text-a">
+              <i class="fa-brands fa-facebook" style="font-size:24px; color: #3b5999;"></i>
+            </div>
+            <div class="detail-page-b-text-a">
+              <i class="fa-brands fa-pinterest" style="font-size:24px; color: #de0217;"></i>
+            </div>
+            <div class="detail-page-b-text-a">
+              <i class="fa-brands fa-twitter" style="font-size:24px; color: #10c2ff;"></i>
+            </div>
+          </div>
+          <div class="row col-md detail-page-b-text-01">
+            <i class="fa-regular fa-heart icon-heart"></i>
+            <div class="">Đã thích (7,5k)</div>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-7 detail-page-c">
+        <div class="detail-page-c-a">
+          <div class="detail-page-c-a-01">
+            <span>{{products[index].name}}</span>
+          </div>
+          <div class="detail-page-c-a-02">
+            <div class="row" style="margin: 0;">
+              <div class="detail-page-c-a-02-text">5.0</div>
+              <div class="detail-page-c-a-02-start">
+                <i class="fa-solid fa-star" style="color: #ee4d2d; font-size: 14px;"></i>
+                <i class="fa-solid fa-star" style="color: #ee4d2d; font-size: 14px;"></i>
+                <i class="fa-solid fa-star" style="color: #ee4d2d; font-size: 14px;"></i>
+                <i class="fa-solid fa-star" style="color: #ee4d2d; font-size: 14px;"></i>
+                <i class="fa-solid fa-star" style="color: #ee4d2d; font-size: 14px;"></i>
+              </div>
+              <div class="row detail-page-c-a-02-text-01" style="margin:0;">
+                <div class="detail-page-c-a-02-text-a">420</div>
+                <div class="detail-page-c-a-02-text-b">Đánh giá</div>
+              </div>
+              <div class="row detail-page-c-a-02-text-01" style="margin:0;">
+                <div class="detail-page-c-a-02-text-a">800</div>
+                <div class="detail-page-c-a-02-text-b">Đã bán</div>
+                <i class="fa-regular fa-circle-question" style="font-size: 14px; padding: 11px 0  0 5px; color: #767676;;"></i>
+              </div>
+              <button class="detail-page-c-a-02-button">Tố cáo</button>
+            </div>
+          </div>
+          <div class="detail-page-c-a-03">
+            <div class="detail-page-c-a-03-a">
+              <div class="row detail-page-c-a-03-text">
+                <div class="detail-page-c-a-03-text-01">₫</div>
+                <div class="detail-page-c-a-03-text-02">{{products[index].Price | number}}</div>
+              </div>
+            </div>
+          </div>
+          <div class="detail-page-c-a-04">
+            <div class="detail-page-c-a-04-a">
+              <div class="row">
+                <div class="detail-page-c-a-04-a-text-01">Mã giảm giá của shop</div>
+                <div class="detail-page-c-a-04-a-text-02 pipe2">
+                  <div class="">10% Giảm</div>
+                </div>
+                <div class="detail-page-c-a-04-a-text-02 pipe2">
+                  <div class="">Giảm 50k</div>
+                </div>
+                <div class="detail-page-c-a-04-a-text-02 pipe2">
+                  <div class="">30% Giảm</div>
+                </div>
+              </div>
+            </div>            
+            <div class="detail-page-c-a-04-a">
+              <div class="row">
+                <div class="detail-page-c-a-04-a-text-01">Deal Sốc</div>
+                <div class="detail-page-c-a-05-a-text-01">
+                  <div class="">mua kèm deal sốc</div>
+                </div>
+              </div>
+            </div>                        
+            <div class="detail-page-c-a-04-a">
+              <div class="row">
+                <div class="detail-page-c-a-04-a-text-01">Vận Chuyển</div>
+                <div class="detail-page-c-a-06-a-text-01">
+                  <i class="fa-solid fa-truck" style="color:#00c7a3; font-size: 18px;"></i>
+                  <div style="margin-left: 10px;">Miễn phí vận chuyển</div>
+                </div>
+              </div>
+            </div>                        
+            <div class="detail-page-c-a-04-a">
+              <div class="row">
+                <div class="detail-page-c-a-04-a-text-01">Số Lượng</div>
+                <div class="row detail-page-c-a-07-a-text-01">
+                  <div class="amount-product" style="margin-right: 15px">
+                    <div class="amount-product-a">
+                      <button class="amount-product-button"><i class="fa-solid fa-minus" style="color: #999999"></i></button>
+                      <input class="amount-product-input" type="text" value="1">
+                      <button class="amount-product-button"><i class="fa-solid fa-plus" style="color: #999999"></i></button>
+                    </div>
+                  </div>
+                  <div style="margin-left: 10px;">254367 sản phẩm có sẵn</div>
+                </div>
+              </div>
+            </div>                        
+          </div>
+          <div class="detail-page-c-cart">
+            <button type="button" class="detail-page-c-cart-a detail-page-c-cart-aa" ng-click="addCart(products[index])"> <i class="fa-solid fa-cart-plus"></i> Thêm Vào Giỏ Hàng</button>
+            <button type="button" class="btn text-white detail-page-c-cart-a detail-page-c-cart-a01 table-hover">Mua Ngay</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+  <script src="js/index.js"></script>
+  <script src="js/jquery-3.6.3.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+</body>
+
+</html>
+
+<!-- <h1>Index: {{index}}</h1>
+
+<img class="float-left" width="300px" src="{{products[index].Image}}" alt="">
+<h4>Tên điện thoại : {{products[index].name}}</h4>
+<h4>Giá : {{products[index].Price}}</h4>
+<button ng-click="addCart(products[index])">Thêm vào giỏ hàng</button>
+<a href="#!/">
+  <p>Mua các sản phẩm khác</p>
+</a> -->

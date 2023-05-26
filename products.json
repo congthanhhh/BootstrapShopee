@@ -1,0 +1,784 @@
+[
+    {
+        "id": "sp1",
+        "background": "img/background-1.png",
+        "Image": "img/item-27.jpeg",
+        "name": "🎀Set 4 thỏi son kem nhung lì NYXKISS dưỡng ẩm môi 4 màu chống dính",
+        "Price": 30000,
+        "sale": "Đã bán 24,7k"
+    },
+    {
+        "id": "sp2",
+        "background": "img/background-2.png",
+        "Image": "img/item-28.jpeg",
+        "name": "Quần ống loe nữ cạp cao, quần tây ống loe nữ ôm vải mềm chun lưng",
+        "Price": 75000,
+        "sale": "Đã bán 2,9k"
+    },
+    {
+        "id": "sp3",
+        "background": "img/background-3.png",
+        "Image": "img/item-29.jpeg",
+        "name": "[Mã FATRENDJAN giảm tới 30k đơn 99k] Áo Sơ Mi Nhung Tăm Nữ Form Rộng Nâu BeSiêu Hot",
+        "Price": 89000,
+        "sale": "Đã bán 815"
+    },
+    {
+        "id": "sp4",
+        "background": "img/background-4.png",
+        "Image": "img/item-30.jpeg", 
+        "name": "Cuộn băng dính nano hai mặt trong suốt kháng nước dài 1m",
+        "Price": 10000,
+        "sale": "Đã bán 23,9k"
+    },
+    {
+        "id": "sp5",
+        "background": "img/background-1.png",
+        "Image": "img/item-31.jpeg",
+        "name": "[Hàng Mới] Set 24 Móng Tay Giả Kèm Keo Dán",
+        "Price": 3000,
+        "sale": "Đã bán 54,8k"
+    },
+    {
+        "id": "sp6",
+        "background": "img/background-1.png",
+        "Image": "img/item-32.jpeg",        
+        "name": "Áo Hoodie Form Rộng Unisex Peace kazuhayz, Áo khoác Sweater Chất Nỉ Dày dặn",
+        "Price": 49000,
+        "sale": "Đã bán 3,2k"
+    },
+    {
+        "id": "sp7",
+        "background": "img/background-4.png",
+        "Image": "img/item-33.jpeg",
+        "name": "Mô hình Pokemon đáng yêu dùng để trang trí",
+        "Price": 12000,
+        "sale": "Đã bán 11,9k"
+    },
+    {
+        "id": "sp8",
+        "background": "img/background-1.png",
+        "Image": "img/item-34.jpeg",
+        "name": "[Mã FATRENDJAN giảm tới 30k đơn 99k] Áo Khoác Cardigan Nét Đứt Đen/Trắng Form Rộng Nam Nữ",
+        "Price": 69000,
+        "sale": "Đã bán 500"
+    },
+    {
+        "id": "sp9",
+        "background": "img/background-1.png",
+        "Image": "img/item-35.jpeg",
+        "name": " [Mã FATRENDJAN giảm tới 30k đơn 99k] Áo Sơ Mi Nhung Tăm Nữ Form Rộng Nâu Be Siêu Hot",
+        "Price": 79000,
+        "sale": "Đã bán 1,6k"
+    },
+    {
+        "id": "sp10",
+        "background": "img/background-1.png",
+        "Image": "img/item-36.jpeg",
+        
+        "name": "Son Kem Hiệu Ứng Gương Dưỡng Ẩm Môi Hiệu DODO",
+        "Price": 23000,
+        "sale": "Đã bán 171"
+    },
+    {
+        "id": "sp11",
+        "background": "img/background-1.png",
+        "Image": "img/item-37.jpeg",
+        
+        "name": "Dép bánh mì nam nữ đế cao 5cm, dép quai ngang chất liệu Eva cao cấp",
+        "Price": 79000,
+        "sale": "Đã bán 5,3k"
+    },
+    {
+        "id": "sp12",
+        "background": "img/background-1.png",
+        "Image": "img/item-38.jpeg",
+        "name": "For Iphone 13 12 Pro Max Xs Max X Xr 7 8 6 6s Plus 12 Mini Se 2020 Phim cường lực 9D bảo vệ cho điện thoại",
+        "Price": 31000,
+        "sale": "Đã bán 3,4k"
+    },
+    {
+        "id": "sp13",
+        "background": "img/background-1.png",
+        "Image": "img/item-39.jpeg",
+        "name": "Bao Tay Chơi Game ff, Pubg, Liên Quân.... Găng tay chơi game Chống Mồ Hôi,Co Giãn Cực Tốt",
+        "Price": 3000,
+        "sale": "Đã bán 40,9k"
+    },
+    {
+        "id": "sp14",
+        "background": "img/background-4.png",
+        "Image": "img/item-40.jpeg",
+        "name": "Túi xách đeo chéo nữ TOTE thời trang giá rẻ đẹp đi chơi phong cách hàn quốc dễ thương cute Rui Store TX36",
+        "Price": 95000,
+        "sale": "Đã bán 800k"
+    },
+    {
+        "id": "sp15",
+        "background": "img/background-2.png",
+        "Image": "img/item-41.jpeg",
+        "name": "⚡Son kem lì Herorange lâu trôi mềm mịn như nhung hàng nội địa Trung",
+        "Price": 15000,
+        "sale": "Đã bán 30k"
+    },
+    {
+        "id": "sp16",
+        "background": "img/background-3.png",
+        "Image": "img/item-42.jpeg",
+        "name": "CHÂN VÁY NHÚN RÚT DÂY KÈM QUẦN TRONG LIỀN✅ ĐEN+ TRẮNG+ BE",
+        "Price": 38000,
+        "sale": "Đã bán 14,7k"
+    },
+    {
+        "id": "sp17",
+        "background": "img/background-2.png",
+        "Image": "img/item-43.jpeg",
+        "name": "[Mã FATRENDJAN giảm tới 30k đơn 99k] Quần ống vẩy, ống loe cạp cao 1 khuy hách dáng chất đẹp",
+        "Price": 630000,
+        "sale": "Đã bán 2,7k"
+    },
+    {
+        "id": "sp18",
+        "background": "img/background-3.png",
+        "Image": "img/item-44.jpeg",
+        "name": "Áo Khoác Hoodies Nữ form rộng Ulzzang Safairia Unisex, Áo nỉ cao cấp chữ C, khóa kéo Thời Trang Nữ Hot Nhất 2022 HKN02",
+        "Price": 66000,
+        "sale": "Đã bán 2,2k"
+    },
+    {
+        "id": "sp19",
+        "background": "img/background-3.png",
+        "Image": "img/item-45.jpeg",    
+        "name": "[Mã FATRENDJAN giảm tới 30k đơn 99k] Set áo ống chân váy rút dây xinh",
+        "Price": 55000,
+        "sale": "Đã bán 1,9k"
+    },
+    {
+        "id": "sp20",
+        "background": "img/background-1.png",
+        "Image": "img/item-46.jpeg",     
+        "name": "DÉP LÔNG SIÊU MỀM Xinh xắn-Dép đi trong nhà hottrend 2022",
+        "Price": 10000,
+        "sale": "Đã bán 400"
+    },
+    {
+        "id": "sp21",
+        "background": "img/background-1.png",
+        "Image": "img/item-47.jpeg",        
+        "name": "A9 mini Loa bluetooth thông minh",
+        "Price": 20000,
+        "sale": "Đã bán 1,1k"
+    },
+    {
+        "id": "sp22",
+        "background": "img/background-1.png",
+        "Image": "img/item-48.jpeg",
+        "name": "Lồng Bàn 5 TẦNG, hộp đựng thức ăn GIỮ NHIỆT CHỐNG BỤI , CHỐNG CÔN TRÙNG ĐA NĂNG TIỆN DỤNG",
+        "Price": 10000,
+        "sale": "Đã bán 575"
+    },
+    {
+        "id": "sp23",
+        "background": "img/background-2.png",
+        "Image": "img/item-49.jpeg",
+        "name": "Áo Hoodie Zip Nam Nữ Nỉ Bông Form Rộng KN088 Áo Khoác Tay Bồng Unisex Helogen có mũ mới nhất 2022",
+        "Price": 33000,
+        "sale": "Đã bán 1,6k"
+    },
+    {
+        "id": "sp24",
+        "background": "img/background-1.png",
+        "Image": "img/item-50.jpeg",
+        "name": "Gel khử mùi bồn cầu nhà vệ sinh hoa thơm khử trùng toilet (mùi tự chọn )",
+        "Price": 5000,
+        "sale": "Đã bán 54,9k"
+    },
+    {
+        "id": "sp25",
+        "background": "img/background-1.png",
+        "Image": "img/item-51.jpeg",
+        "name": "Áo Khoác Hoodies Nữ form rộng Ulzzang Safairia Unisex, Áo nỉ cao cấp chữ C, khóa kéo Thời Trang Nữ Hot Nhất 2022 HKN01",
+        "Price": 10000,
+        "sale": "Đã bán 230"
+    },
+    {
+        "id": "sp26",
+        "background": "img/background-1.png",
+        "Image": "img/item-52.jpeg",      
+        "name": "Áo Khoác Cardigan N.Y Trắng Đen Phối Viền Nam Nữ mẫu mới",
+        "Price": 69000,
+        "sale": "Đã bán 570"
+    },
+    {
+        "id": "sp27",
+        "background": "img/background-4.png",
+        "Image": "img/item-53.jpeg",       
+        "name": "Bộ cà phê Đắk Lắk làm sạch da chết cocoon: da mặt 150ml + cơ thể 200ml",
+        "Price": 112500,
+        "sale": "Đã bán 29,7k"
+    },
+    {
+        "id": "sp28",
+        "background": "img/background-2.png",
+        "Image": "img/item-54.jpeg",  
+        "name": "FREE SHIP Giày cao gót / sandal cao gót vuông 3p phối khóa cực đẹp 001",
+        "Price": 75000,
+        "sale": "Đã bán 4k"
+    },
+    {
+        "id": "sp29",
+        "background": "img/background-1.png",
+        "Image": "img/item-55.jpeg",
+        "name": "1 / 2 / 3 / 5M Băng Keo Hai Mặt Nano Trong Suốt Trang Trí Halloween / Giáng Sinh",
+        "Price": 10000,
+        "sale": "Đã bán 1,8k"
+    },
+    {
+        "id": "sp30",
+        "background": "img/background-3.png",
+        "Image": "img/item-56.jpeg",
+        "name": "✔️ mô hình đồ chơi lego xếp hình kiếm lego Kimetsu No Yaiba lắp ráp rèn luyện trí thông minh LINKGO CHÍNH HÃNG",
+        "Price": 49750,
+        "sale": "Đã bán 4,7k"
+    },
+    {
+        "id": "sp31",
+        "background": "img/background-1.png",
+        "Image": "img/item-57.jpeg",
+        "name": "Tai nghe bluetooth không dây I7S TWS có micro hỗ trợ tập thể thao thích hợp cho Apple IPhone Xiaomi",
+        "Price": 25000,
+        "sale": "Đã bán 4,7k"
+    },
+    {
+        "id": "sp32",
+        "background": "img/background-1.png",
+        "Image": "img/item-58.jpeg",   
+        "name": "Set Son 10 Cây ErshiQi velvet Lâu Trôi",
+        "Price": 49000,
+        "sale": "Đã bán 1,2k"
+    },
+    {
+        "id": "sp33",
+        "background": "img/background-1.png",
+        "Image": "img/item-59.jpeg",   
+        "name": "Miếng dán làm trắng răng 3d tiện dụng",
+        "Price": 4600,
+        "sale": "Đã bán 327,7k"
+    },
+    {
+        "id": "sp34",
+        "background": "img/background-1.png",
+        "Image": "img/item-60.jpeg",
+        "name": "Áo Khoác nỉ nam nữ in chữ k kiểu dáng Bomber Bóng Chày cực phẩm của shop bao đẹp",
+        "Price": 25000,
+        "sale": "Đã bán 526"
+    },
+    {
+        "id": "sp35",
+        "background": "img/background-1.png",
+        "Image": "img/item-61.jpeg",
+        "name": "[Mẫu Mới] Xịt Thơm Miệng Miyizang Hoa Quả Thơm miệng sạch sẽ thơm tho 20Ml(Dạng Chai)",
+        "Price": 6000,
+        "sale": "Đã bán 2,7k"
+    },
+    {
+        "id": "sp36",
+        "background": "img/background-1.png",
+        "Image": "img/item-62.jpeg", 
+        "name": "✔️ mô hình đồ chơi lego xếp hình kiếm lego Kimetsu No Yaiba lắp ráp rèn luyện trí thông minh LINKGO CHÍNH HÃNG",
+        "Price": 29000,
+        "sale": "Đã bán 2,7k"
+    },
+    {
+        "id": "sp37",
+        "background": "img/background-1.png",
+        "Image": "img/item-63.jpeg",
+        "name": "Ná Cao Su Mec Laze 1 Ná 2 Dây 100 Bi",
+        "Price": 15000,
+        "sale": "Đã bán 1,7k"
+    },
+    {
+        "id": "sp38",
+        "background": "img/background-1.png",
+        "Image": "img/item-64.jpeg",
+        "name": "Set Son 10 Cây ErshiQi velvet Lâu TrôiSamsung Galaxy M33 M53 M23 M13 M62 M12 M32 M22 M52 M21 M02 M31 M01 M11 M30s M30 Ốp Lưng Dẻo Trong Suốt Cho",
+        "Price": 12000,
+        "sale": "Đã bán 2,5k"
+    },
+    {
+        "id": "sp39",
+        "background": "img/background-1.png",
+        "Image": "img/item-65.jpeg",
+        "name": " [Mã FATRENDJAN giảm tới 30k đơn 99k] 1pcs Găng cánh tay chống tia UV in họa tiết hình xăm độc đáo phong cách Halloween",
+        "Price": 8000,
+        "sale": "Đã bán 2,2k"
+    },
+    {
+        "id": "sp40",
+        "background": "img/background-1.png",
+        "Image": "img/item-66.jpeg",     
+        "name": "Chất lượng cao không thấm nước BEAUTY GLAZED Long Lasting Matte Lipstick",
+        "Price": 9000,
+        "sale": "Đã bán 3,2k"
+    },
+    {
+        "id": "sp41",
+        "background": "img/background-1.png",
+        "Image": "img/item-67.jpeg",
+        "name": "RẺ VÔ ĐỊCH Váy Tiểu Thư Trắng Trễ Vai - Đầm Xòe babydoll Mặc Nhiều Kiểu Hot",
+        "Price": 78000,
+        "sale": "Đã bán 2,7k"
+    },
+    {
+        "id": "sp42",
+        "background": "img/background-1.png",
+        "Image": "img/item-68.png",
+        "name": "Đồng hồ nam nữ Led phi hành gia hàng thời trang không được tốt lắm",
+        "Price": 21000,
+        "sale": "Đã bán 11k"
+    },
+    {
+        "id": "sp43",
+        "background": "img/background-4.png",
+        "Image": "img/item-69.jpeg",
+        "name": "[Mã FATET2023 giảm đến 30k đơn 99k] Áo Hoodie Nỉ Devil Mặt Quỷ 5 Cô Y tá, Áo Nỉ Form Rộng Unixex Almira",
+        "Price": 65000,
+        "sale": "Đã bán 544"
+    },
+    {
+        "id": "sp44",
+        "background": "img/background-3.png",
+        "Image": "img/item-70.jpeg",
+        "name": "[Mã FATRENDJAN giảm tới 30k đơn 99k] Giày tập đi đế mềm chống trượt cho bé 0 - 2 tuổi",
+        "Price": 39000,
+        "sale": "Đã bán 3,8k"
+    },
+    {
+        "id": "sp45",
+        "background": "img/background-2.png",
+        "Image": "img/item-71.png",
+        "name": "Dép Bông Nữ đi trong nhà hình Tai Thỏ Cute đáng yêu - VeoStore",
+        "Price": 179000,
+        "sale": "Đã bán 577"
+    },
+    {
+        "id": "sp46",
+        "background": "img/background-1.png",
+        "Image": "img/item-72.jpeg",
+        "name": "Máy Tính Cầm Tay Bỏ Túi Hình Gấu Độc Đáo Dễ Thương Dành Cho Học Sinh",
+        "Price": 18000,
+        "sale": "Đã bán 2,7"
+    },
+    {
+        "id": "sp47",
+        "background": "img/background-1.png",
+        "Image": "img/item-73.jpeg",
+        "name": "Áo khoác bomber nỉ kẻ caro in chữ siêu ngầu nganunisex",
+        "Price": 85000,
+        "sale": "Đã bán 2,1k"
+    },
+    {
+        "id": "sp48",
+        "background": "img/background-1.png",
+        "Image": "img/item-74.jpeg",
+        "name": "[SẴN SHIP] Nước hoa Johnson Baby Thái mùi thơm phảng phất dịu nhẹ hương phấn em bé nội địa Thái 35ml",
+        "Price": 23000,
+        "sale": "Đã bán 17,7k"
+    },
+
+
+
+
+
+
+
+    
+
+
+    {
+        "id": "sp49",
+        "background": "img/background-1.png",
+        "Image": "img/item-27.jpeg",
+        "name": "🎀Set 4 thỏi son kem nhung lì NYXKISS dưỡng ẩm môi 4 màu chống dính",
+        "Price": 30000,
+        "sale": "Đã bán 24,7k"
+    },
+    {
+        "id": "sp50",
+        "background": "img/background-2.png",
+        "Image": "img/item-28.jpeg",
+        "name": "Quần ống loe nữ cạp cao, quần tây ống loe nữ ôm vải mềm chun lưng",
+        "Price": 75000,
+        "sale": "Đã bán 2,9k"
+    },
+    {
+        "id": "sp51",
+        "background": "img/background-3.png",
+        "Image": "img/item-29.jpeg",
+        "name": "[Mã FATRENDJAN giảm tới 30k đơn 99k] Áo Sơ Mi Nhung Tăm Nữ Form Rộng Nâu BeSiêu Hot",
+        "Price": 89000,
+        "sale": "Đã bán 815"
+    },
+    {
+        "id": "sp52",
+        "background": "img/background-4.png",
+        "Image": "img/item-30.jpeg", 
+        "name": "Cuộn băng dính nano hai mặt trong suốt kháng nước dài 1m",
+        "Price": 10000,
+        "sale": "Đã bán 23,9k"
+    },
+    {
+        "id": "sp53",
+        "background": "img/background-1.png",
+        "Image": "img/item-31.jpeg",
+        "name": "[Hàng Mới] Set 24 Móng Tay Giả Kèm Keo Dán",
+        "Price": 3000,
+        "sale": "Đã bán 54,8k"
+    },
+    {
+        "id": "sp54",
+        "background": "img/background-1.png",
+        "Image": "img/item-32.jpeg",        
+        "name": "Áo Hoodie Form Rộng Unisex Peace kazuhayz, Áo khoác Sweater Chất Nỉ Dày dặn",
+        "Price": 49000,
+        "sale": "Đã bán 3,2k"
+    },
+    {
+        "id": "sp55",
+        "background": "img/background-4.png",
+        "Image": "img/item-33.jpeg",
+        "name": "Mô hình Pokemon đáng yêu dùng để trang trí",
+        "Price": 12000,
+        "sale": "Đã bán 11,9k"
+    },
+    {
+        "id": "sp56",
+        "background": "img/background-1.png",
+        "Image": "img/item-34.jpeg",
+        "name": "[Mã FATRENDJAN giảm tới 30k đơn 99k] Áo Khoác Cardigan Nét Đứt Đen/Trắng Form Rộng Nam Nữ",
+        "Price": 69000,
+        "sale": "Đã bán 500"
+    },
+    {
+        "id": "sp57",
+        "background": "img/background-1.png",
+        "Image": "img/item-35.jpeg",
+        "name": " [Mã FATRENDJAN giảm tới 30k đơn 99k] Áo Sơ Mi Nhung Tăm Nữ Form Rộng Nâu Be Siêu Hot",
+        "Price": 79000,
+        "sale": "Đã bán 1,6k"
+    },
+    {
+        "id": "sp58",
+        "background": "img/background-1.png",
+        "Image": "img/item-36.jpeg",
+        
+        "name": "Son Kem Hiệu Ứng Gương Dưỡng Ẩm Môi Hiệu DODO",
+        "Price": 23000,
+        "sale": "Đã bán 171"
+    },
+    {
+        "id": "sp59",
+        "background": "img/background-1.png",
+        "Image": "img/item-37.jpeg",
+        
+        "name": "Dép bánh mì nam nữ đế cao 5cm, dép quai ngang chất liệu Eva cao cấp",
+        "Price": 79000,
+        "sale": "Đã bán 5,3k"
+    },
+    {
+        "id": "sp60",
+        "background": "img/background-1.png",
+        "Image": "img/item-38.jpeg",
+        "name": "For Iphone 13 12 Pro Max Xs Max X Xr 7 8 6 6s Plus 12 Mini Se 2020 Phim cường lực 9D bảo vệ cho điện thoại",
+        "Price": 31000,
+        "sale": "Đã bán 3,4k"
+    },
+    {
+        "id": "sp61",
+        "background": "img/background-1.png",
+        "Image": "img/item-39.jpeg",
+        "name": "Bao Tay Chơi Game ff, Pubg, Liên Quân.... Găng tay chơi game Chống Mồ Hôi,Co Giãn Cực Tốt",
+        "Price": 3000,
+        "sale": "Đã bán 40,9k"
+    },
+    {
+        "id": "sp62",
+        "background": "img/background-4.png",
+        "Image": "img/item-40.jpeg",
+        "name": "Túi xách đeo chéo nữ TOTE thời trang giá rẻ đẹp đi chơi phong cách hàn quốc dễ thương cute Rui Store TX36",
+        "Price": 95000,
+        "sale": "Đã bán 800k"
+    },
+    {
+        "id": "sp63",
+        "background": "img/background-2.png",
+        "Image": "img/item-41.jpeg",
+        "name": "⚡Son kem lì Herorange lâu trôi mềm mịn như nhung hàng nội địa Trung",
+        "Price": 15000,
+        "sale": "Đã bán 30k"
+    },
+    {
+        "id": "sp64",
+        "background": "img/background-3.png",
+        "Image": "img/item-42.jpeg",
+        "name": "CHÂN VÁY NHÚN RÚT DÂY KÈM QUẦN TRONG LIỀN✅ ĐEN+ TRẮNG+ BE",
+        "Price": 38000,
+        "sale": "Đã bán 14,7k"
+    },
+    {
+        "id": "sp65",
+        "background": "img/background-2.png",
+        "Image": "img/item-43.jpeg",
+        "name": "[Mã FATRENDJAN giảm tới 30k đơn 99k] Quần ống vẩy, ống loe cạp cao 1 khuy hách dáng chất đẹp",
+        "Price": 630000,
+        "sale": "Đã bán 2,7k"
+    },
+    {
+        "id": "sp66",
+        "background": "img/background-3.png",
+        "Image": "img/item-44.jpeg",
+        "name": "Áo Khoác Hoodies Nữ form rộng Ulzzang Safairia Unisex, Áo nỉ cao cấp chữ C, khóa kéo Thời Trang Nữ Hot Nhất 2022 HKN02",
+        "Price": 66000,
+        "sale": "Đã bán 2,2k"
+    },
+    {
+        "id": "sp67",
+        "background": "img/background-3.png",
+        "Image": "img/item-45.jpeg",    
+        "name": "[Mã FATRENDJAN giảm tới 30k đơn 99k] Set áo ống chân váy rút dây xinh",
+        "Price": 55000,
+        "sale": "Đã bán 1,9k"
+    },
+    {
+        "id": "sp68",
+        "background": "img/background-1.png",
+        "Image": "img/item-46.jpeg",     
+        "name": "DÉP LÔNG SIÊU MỀM Xinh xắn-Dép đi trong nhà hottrend 2022",
+        "Price": 10000,
+        "sale": "Đã bán 400"
+    },
+    {
+        "id": "sp69",
+        "background": "img/background-1.png",
+        "Image": "img/item-47.jpeg",        
+        "name": "A9 mini Loa bluetooth thông minh",
+        "Price": 20000,
+        "sale": "Đã bán 1,1k"
+    },
+    {
+        "id": "sp70",
+        "background": "img/background-1.png",
+        "Image": "img/item-48.jpeg",
+        "name": "Lồng Bàn 5 TẦNG, hộp đựng thức ăn GIỮ NHIỆT CHỐNG BỤI , CHỐNG CÔN TRÙNG ĐA NĂNG TIỆN DỤNG",
+        "Price": 10000,
+        "sale": "Đã bán 575"
+    },
+    {
+        "id": "sp71",
+        "background": "img/background-2.png",
+        "Image": "img/item-49.jpeg",
+        "name": "Áo Hoodie Zip Nam Nữ Nỉ Bông Form Rộng KN088 Áo Khoác Tay Bồng Unisex Helogen có mũ mới nhất 2022",
+        "Price": 33000,
+        "sale": "Đã bán 1,6k"
+    },
+    {
+        "id": "sp72",
+        "background": "img/background-1.png",
+        "Image": "img/item-50.jpeg",
+        "name": "Gel khử mùi bồn cầu nhà vệ sinh hoa thơm khử trùng toilet (mùi tự chọn )",
+        "Price": 5000,
+        "sale": "Đã bán 54,9k"
+    },
+    {
+        "id": "sp73",
+        "background": "img/background-1.png",
+        "Image": "img/item-51.jpeg",
+        "name": "Áo Khoác Hoodies Nữ form rộng Ulzzang Safairia Unisex, Áo nỉ cao cấp chữ C, khóa kéo Thời Trang Nữ Hot Nhất 2022 HKN01",
+        "Price": 10000,
+        "sale": "Đã bán 230"
+    },
+    {
+        "id": "sp74",
+        "background": "img/background-1.png",
+        "Image": "img/item-52.jpeg",      
+        "name": "Áo Khoác Cardigan N.Y Trắng Đen Phối Viền Nam Nữ mẫu mới",
+        "Price": 69000,
+        "sale": "Đã bán 570"
+    },
+    {
+        "id": "sp75",
+        "background": "img/background-4.png",
+        "Image": "img/item-53.jpeg",       
+        "name": "Bộ cà phê Đắk Lắk làm sạch da chết cocoon: da mặt 150ml + cơ thể 200ml",
+        "Price": 112500,
+        "sale": "Đã bán 29,7k"
+    },
+    {
+        "id": "sp76",
+        "background": "img/background-2.png",
+        "Image": "img/item-54.jpeg",  
+        "name": "FREE SHIP Giày cao gót / sandal cao gót vuông 3p phối khóa cực đẹp 001",
+        "Price": 75000,
+        "sale": "Đã bán 4k"
+    },
+    {
+        "id": "sp77",
+        "background": "img/background-1.png",
+        "Image": "img/item-55.jpeg",
+        "name": "1 / 2 / 3 / 5M Băng Keo Hai Mặt Nano Trong Suốt Trang Trí Halloween / Giáng Sinh",
+        "Price": 10000,
+        "sale": "Đã bán 1,8k"
+    },
+    {
+        "id": "sp78",
+        "background": "img/background-3.png",
+        "Image": "img/item-56.jpeg",
+        "name": "✔️ mô hình đồ chơi lego xếp hình kiếm lego Kimetsu No Yaiba lắp ráp rèn luyện trí thông minh LINKGO CHÍNH HÃNG",
+        "Price": 49750,
+        "sale": "Đã bán 4,7k"
+    },
+    {
+        "id": "sp79",
+        "background": "img/background-1.png",
+        "Image": "img/item-57.jpeg",
+        "name": "Tai nghe bluetooth không dây I7S TWS có micro hỗ trợ tập thể thao thích hợp cho Apple IPhone Xiaomi",
+        "Price": 25000,
+        "sale": "Đã bán 4,7k"
+    },
+    {
+        "id": "sp80",
+        "background": "img/background-1.png",
+        "Image": "img/item-58.jpeg",   
+        "name": "Set Son 10 Cây ErshiQi velvet Lâu Trôi",
+        "Price": 49000,
+        "sale": "Đã bán 1,2k"
+    },
+    {
+        "id": "sp81",
+        "background": "img/background-1.png",
+        "Image": "img/item-59.jpeg",   
+        "name": "Miếng dán làm trắng răng 3d tiện dụng",
+        "Price": 4600,
+        "sale": "Đã bán 327,7k"
+    },
+    {
+        "id": "sp82",
+        "background": "img/background-1.png",
+        "Image": "img/item-60.jpeg",
+        "name": "Áo Khoác nỉ nam nữ in chữ k kiểu dáng Bomber Bóng Chày cực phẩm của shop bao đẹp",
+        "Price": 25000,
+        "sale": "Đã bán 526"
+    },
+    {
+        "id": "sp83",
+        "background": "img/background-1.png",
+        "Image": "img/item-61.jpeg",
+        "name": "[Mẫu Mới] Xịt Thơm Miệng Miyizang Hoa Quả Thơm miệng sạch sẽ thơm tho 20Ml(Dạng Chai)",
+        "Price": 6000,
+        "sale": "Đã bán 2,7k"
+    },
+    {
+        "id": "sp84",
+        "background": "img/background-1.png",
+        "Image": "img/item-62.jpeg", 
+        "name": "✔️ mô hình đồ chơi lego xếp hình kiếm lego Kimetsu No Yaiba lắp ráp rèn luyện trí thông minh LINKGO CHÍNH HÃNG",
+        "Price": 29000,
+        "sale": "Đã bán 2,7k"
+    },
+    {
+        "id": "sp85",
+        "background": "img/background-1.png",
+        "Image": "img/item-63.jpeg",
+        "name": "Ná Cao Su Mec Laze 1 Ná 2 Dây 100 Bi",
+        "Price": 15000,
+        "sale": "Đã bán 1,7k"
+    },
+    {
+        "id": "sp86",
+        "background": "img/background-1.png",
+        "Image": "img/item-64.jpeg",
+        "name": "Set Son 10 Cây ErshiQi velvet Lâu TrôiSamsung Galaxy M33 M53 M23 M13 M62 M12 M32 M22 M52 M21 M02 M31 M01 M11 M30s M30 Ốp Lưng Dẻo Trong Suốt Cho",
+        "Price": 12000,
+        "sale": "Đã bán 2,5k"
+    },
+    {
+        "id": "sp87",
+        "background": "img/background-1.png",
+        "Image": "img/item-65.jpeg",
+        "name": " [Mã FATRENDJAN giảm tới 30k đơn 99k] 1pcs Găng cánh tay chống tia UV in họa tiết hình xăm độc đáo phong cách Halloween",
+        "Price": 8000,
+        "sale": "Đã bán 2,2k"
+    },
+    {
+        "id": "sp88",
+        "background": "img/background-1.png",
+        "Image": "img/item-66.jpeg",     
+        "name": "Chất lượng cao không thấm nước BEAUTY GLAZED Long Lasting Matte Lipstick",
+        "Price": 9000,
+        "sale": "Đã bán 3,2k"
+    },
+    {
+        "id": "sp89",
+        "background": "img/background-1.png",
+        "Image": "img/item-67.jpeg",
+        "name": "RẺ VÔ ĐỊCH Váy Tiểu Thư Trắng Trễ Vai - Đầm Xòe babydoll Mặc Nhiều Kiểu Hot",
+        "Price": 78000,
+        "sale": "Đã bán 2,7k"
+    },
+    {
+        "id": "sp90",
+        "background": "img/background-1.png",
+        "Image": "img/item-68.png",
+        "name": "Đồng hồ nam nữ Led phi hành gia hàng thời trang không được tốt lắm",
+        "Price": 21000,
+        "sale": "Đã bán 11k"
+    },
+    {
+        "id": "sp91",
+        "background": "img/background-4.png",
+        "Image": "img/item-69.jpeg",
+        "name": "[Mã FATET2023 giảm đến 30k đơn 99k] Áo Hoodie Nỉ Devil Mặt Quỷ 5 Cô Y tá, Áo Nỉ Form Rộng Unixex Almira",
+        "Price": 65000,
+        "sale": "Đã bán 544"
+    },
+    {
+        "id": "sp92",
+        "background": "img/background-3.png",
+        "Image": "img/item-70.jpeg",
+        "name": "[Mã FATRENDJAN giảm tới 30k đơn 99k] Giày tập đi đế mềm chống trượt cho bé 0 - 2 tuổi",
+        "Price": 39000,
+        "sale": "Đã bán 3,8k"
+    },
+    {
+        "id": "sp93",
+        "background": "img/background-2.png",
+        "Image": "img/item-71.png",
+        "name": "Dép Bông Nữ đi trong nhà hình Tai Thỏ Cute đáng yêu - VeoStore",
+        "Price": 179000,
+        "sale": "Đã bán 577"
+    },
+    {
+        "id": "sp94",
+        "background": "img/background-1.png",
+        "Image": "img/item-72.jpeg",
+        "name": "Máy Tính Cầm Tay Bỏ Túi Hình Gấu Độc Đáo Dễ Thương Dành Cho Học Sinh",
+        "Price": 18000,
+        "sale": "Đã bán 2,7"
+    },
+    {
+        "id": "sp95",
+        "background": "img/background-1.png",
+        "Image": "img/item-73.jpeg",
+        "name": "Áo khoác bomber nỉ kẻ caro in chữ siêu ngầu nganunisex",
+        "Price": 85000,
+        "sale": "Đã bán 2,1k"
+    },
+    {
+        "id": "sp96",
+        "background": "img/background-1.png",
+        "Image": "img/item-74.jpeg",
+        "name": "[SẴN SHIP] Nước hoa Johnson Baby Thái mùi thơm phảng phất dịu nhẹ hương phấn em bé nội địa Thái 35ml",
+        "Price": 23000,
+        "sale": "Đã bán 17,7k"
+    }
+]
